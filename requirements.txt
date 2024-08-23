@@ -1,5 +1,9 @@
-
 streamlit
 pydub
 speechrecognition
 noisereduce
+librosa
+soundfile
+pyannote.audio
+webrtcvad
+lightning-fabric
