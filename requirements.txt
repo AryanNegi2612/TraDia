@@ -7,3 +7,5 @@ soundfile
 pyannote.audio
 webrtcvad
 lightning-fabric
+torchvision
+
